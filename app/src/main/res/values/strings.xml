@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test_weedigital</string>
+    <string name="logo_text">FACE CHECK-IN MANAGEMENT</string>
+    <string name="user_text">Nhập username...</string>
+    <string name="password_text">Nhập password...</string>
+    <string name="button_text">Đăng nhập</string>
+</resources>
